@@ -1,2 +1,2 @@
 this is devops tool
-used to deplay application
+used to deplay applications
